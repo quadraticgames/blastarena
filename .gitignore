@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Large binary files
+*.pdb
+*.pak
+*.ucas
+*.utoc
+
+# Windows specific
+Windows/GameUFPS/Binaries/**
+Windows/GameUFPS/Content/Paks/**
